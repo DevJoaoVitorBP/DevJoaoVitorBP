@@ -1,42 +1,42 @@
-# Olá! 👋 Eu sou João Vitor Batalha Pereira
+# Hello! 👋 I'm João Vitor Batalha Pereira
 
-## 👨‍💻 Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas pela Univiçosa, com formatura prevista para 2025. Atualmente, atuo como Estagiário de Infraestrutura e Desenvolvimento com foco em melhorias internas e automação. Além disso, tenho experiência em desenvolvimento Full Stack.
+## 👨‍💻 About Me
+I am a student of Systems Analysis and Development at Univiçosa, expected to graduate in 2025. Currently, I work as an Infrastructure and Development Intern, focusing on internal improvements and automation. I also have experience in Full Stack development.
 
-## 🛠️ Habilidades Técnicas
-- **Linguagens:** C#, JavaScript, SQL
-- **Frameworks e Ferramentas:** Vue.js, Adonis.js, RestSharp, Entity Framework, Docker, Serilog
-- **Banco de Dados:** MySQL, SQL Server, MongoDB, Oracle
-- **Ferramentas de Desenvolvimento:** Git, Visual Studio, Jira, Docker
-- **Outras Habilidades:** API RESTful, automação de processos, análise e depuração
+## 🛠️ Technical Skills
+- **Languages:** C#, JavaScript, SQL
+- **Frameworks and Tools:** Vue.js, Adonis.js, RestSharp, Entity Framework, Docker, Serilog
+- **Databases:** MySQL, SQL Server, MongoDB, Oracle
+- **Development Tools:** Git, Visual Studio, Jira, Docker
+- **Other Skills:** RESTful API, process automation, analysis and debugging
 
-## 🌱 Atualmente Aprendendo
-- Desafios de programação com LeetCode
-- Conceitos e práticas para o desenvolvimento em Back-end
-- Técnicas avançadas de API RESTful e otimização de desempenho
+## 🌱 Currently Learning
+- Programming challenges on LeetCode
+- Concepts and practices for Back-end development
+- Advanced RESTful API techniques and performance optimization
 
-## 💼 Experiências Recentes
-- **Estágio em Desenvolvimento — MedYes, Viçosa-MG**  
-  *Mai/2024 – Atualmente*  
-  - Desenvolvi e implementei funcionalidades e melhorias no sistema CareYes utilizando Vue.js e Adonis.js.
-  - Colaborei com a equipe na manutenção e atualização do sistema, garantindo sua funcionalidade e usabilidade.  
-  **Tecnologias utilizadas:** Vue.js, Adonis.js, Docker e MySQL
+## 💼 Recent Experiences
+- **Development Intern — MedYes, Viçosa-MG**  
+  *May/2024 – Present*  
+  - Developed and implemented features and improvements in the CareYes system using Vue.js and Adonis.js.
+  - Collaborated with the team on system maintenance and updates to ensure functionality and usability.  
+  **Technologies used:** Vue.js, Adonis.js, Docker, and MySQL
 
-- **Estágio em infraestrutura — IBID IT Solutions, Florianópolis-SC**  
-  *Mai/2024 – Atualmente*  
-  - Automatizei análises do sistema Jira utilizando C# para análise de dados, gerando insights relevantes para a tomada de decisões.
-  - Desenvolvimento de melhorias internas.  
-  **Tecnologias utilizadas:** ASP.NET 4.5, SQL Server, SOAP, MongoDB, Oracle, PowerShell
+- **Infrastructure Intern — IBID IT Solutions, Florianópolis-SC**  
+  *May/2024 – Present*  
+  - Automated Jira system analyses using C# for data analysis, generating relevant insights for decision-making.
+  - Developed internal improvements.  
+  **Technologies used:** ASP.NET 4.5, SQL Server, SOAP, MongoDB, Oracle, PowerShell
 
-- **Estágio em Análise e Depuração — IBID IT Solutions, Florianópolis-SC**  
-  *Jan/2024 – Mai/2024*  
-  - Traduzi as necessidades dos clientes em soluções técnicas eficazes na plataforma de e-Procurement.
-  - Identifiquei e resolvi erros e falhas através de depuração de código, propondo e implementando soluções.
-  - Análise de dados em bancos de dados relacionais para identificar padrões, solucionar inconsistências e gerar insights.  
-  **Tecnologias utilizadas:** ASP.NET 4.5, SQL Server, SOAP, MongoDB, Oracle
+- **Analysis and Debugging Intern — IBID IT Solutions, Florianópolis-SC**  
+  *Jan/2024 – May/2024*  
+  - Translated client needs into effective technical solutions on the e-Procurement platform.
+  - Identified and resolved bugs and issues through code debugging, proposing and implementing solutions.
+  - Analyzed data in relational databases to identify patterns, solve inconsistencies, and generate insights.  
+  **Technologies used:** ASP.NET 4.5, SQL Server, SOAP, MongoDB, Oracle
 
-## 📫 Contato
-Fique à vontade para se conectar comigo:
+## 📫 Contact
+Feel free to connect with me:
 
 - **Email:** [developerjoaopereira@gmail.com](mailto:developerjoaopereira@gmail.com)
 - **LinkedIn:** [devjoaopereira](https://www.linkedin.com/in/devjoaopereira/)
