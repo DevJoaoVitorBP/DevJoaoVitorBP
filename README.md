@@ -1,7 +1,7 @@
 # Hello! 👋 I'm João Vitor Batalha Pereira
 
 ## 👨‍💻 About Me
-I’m a recently graduated Systems Analysis and Development professional from Univiçosa (2025). I currently work as a Development Intern at Ahlex and have experience across infrastructure, automation, full stack development, and debugging.
+I’m a recently graduated Systems Analysis and Development professional from Univiçosa (2025). I currently work as a Development Intern at Ahlex and have experience across infrastructure, automation, full stack development.
 
 ## 🛠️ Technical Skills
 - **Languages:** C#, JavaScript, SQL  
